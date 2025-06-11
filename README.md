@@ -3,6 +3,7 @@
 #  Spring Boot URL Shortener
 
 A URL shortener service built with Spring Boot, JPA, and MySQL. It allows users to convert long URLs into shorter, shareable links and redirects them accordingly.
+Solution to the challenge proposed by the Backend Brasil repository. Check the details [at this link](https://github.com/backend-br/desafios/blob/master/url-shortener/PROBLEM.md).
 
 ## 🚀 Features
 
