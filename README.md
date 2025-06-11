@@ -59,7 +59,7 @@ http://localhost:8080/DXB6V
 ## GET /{shortCode}
 Redirects to the original URL.
 
-If expired or not found, returns HTTP 404
+If expired or not found, returns HTTP 404/410
 
 # 📖 Swagger Documentation
 Once the application is running, access:
