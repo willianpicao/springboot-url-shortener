@@ -33,7 +33,7 @@ Solution to the challenge proposed by the Backend Brasil repository. Check the d
 ### Clone and Run
 
 - git clone https://github.com/willianpicao/willianpicao-springboot-url-shortener.git
-- cd willianpicao-springboot-url-shortener
+- cd springboot-url-shortener
 - Go to the docker folder and start the containers
 - docker-compose up -d
 - Go back to the project root to run the Spring Boot app
